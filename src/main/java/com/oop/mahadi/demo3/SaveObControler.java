@@ -21,21 +21,21 @@ public void initialize() {
     private TextArea textAreafxid;
 
     @FXML
-    void createButtononaction(ActionEvent event) {
+    void createButtononaction (ActionEvent event) {
         textAreafxid.clear();
 
-        File f=new File("C:\\oop\\demo3\\writeCcObject.bin");
+        File f=new File("C:\\oop\\demo3\\writeCcObject.txt");
         if (!nameFxid.getText().isEmpty()){
             if (!f.exists()){
                 List<Serializable> l = new ArrayList<>();
-                l.add(new Cc("hello me"));
-                String x ="writeCcObject.bin";
+                l.add(new Cc(nameFxid.getText()));
+                String x ="writeCcObject.txt";
                 SaveObjects.saveObjectsToFile(l,x);
             }
             else {
                 List<Serializable> l = new ArrayList<>();
                 l.add(new Cc(nameFxid.getText()));
-                String x ="writeCcObject.bin";
+                String x ="writeCcObject.txt";
                 AppendObjects.appendObjectsToFile(l,x);
 
 
@@ -47,7 +47,7 @@ public void initialize() {
             textAreafxid.setText("enter a name");
         }
 
-        String x ="writeCcObject.bin";
+        String x ="writeCcObject.txt";
        List<Serializable> d = LoadObjects.loadObjectsFromFile(x);
       System.out.println(d);
 

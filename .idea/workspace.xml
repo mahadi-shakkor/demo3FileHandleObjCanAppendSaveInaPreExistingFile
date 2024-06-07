@@ -5,27 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a0b98e0-fe47-493d-853b-5df591d59360" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/oop/mahadi/demo3/AppendObjects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/oop/mahadi/demo3/AppendableObjectOutputStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/oop/mahadi/demo3/Cc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/oop/mahadi/demo3/HelloApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/oop/mahadi/demo3/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/oop/mahadi/demo3/LoadObjects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/oop/mahadi/demo3/SaveObControler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/oop/mahadi/demo3/SaveObjects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/oop/mahadi/demo3/SaveOb.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/oop/mahadi/demo3/hello-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/oop/mahadi/demo3/SaveObControler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/oop/mahadi/demo3/SaveObControler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/writeCcObject.bin" beforeDir="false" afterPath="$PROJECT_DIR$/writeCcObject.bin" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
